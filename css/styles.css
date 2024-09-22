@@ -1,0 +1,24 @@
+/* Estilos personalizados */
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  header {
+    background: url('https://via.placeholder.com/1920x600') no-repeat center center;
+    background-size: cover;
+    color: white;
+  }
+  
+  h2 {
+    margin-bottom: 30px;
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  header {
+    background: url('https://via.placeholder.com/1920x600.png?text=Bem-vindo+ao+Meu+Portfólio') no-repeat center center;
+    background-size: cover;
+    color: white;
+}
